@@ -1,4 +1,4 @@
-# thierryarzal-info
+# thierryarzal.info
 
 thierryarzal.info page
 
